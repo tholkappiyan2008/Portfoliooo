@@ -147,3 +147,9 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Custom local ignores
+debug*.cjs
+debug*.js
+take_screenshots*
+*.tmp

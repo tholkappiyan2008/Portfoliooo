@@ -1,0 +1,33 @@
+{
+  "name": "thols-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build --webpack",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.5.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "typescript": "^5.8.3",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@types/node": "^22.13.11",
+    "tailwindcss": "^4.0.9",
+    "@tailwindcss/postcss": "^4.0.9",
+    "autoprefixer": "^10.4.21",
+    "motion": "^12.10.3",
+    "@gsap/react": "^3.11.0",
+    "gsap": "^3.12.7",
+    "lenis": "^1.1.2",
+    "lucide-react": "^0.511.0",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^3.0.1",
+    "class-variance-authority": "^0.7.1"
+  }
+}
+
