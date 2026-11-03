@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build --webpack",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
@@ -21,8 +21,8 @@
     "@tailwindcss/postcss": "^4.0.9",
     "autoprefixer": "^10.4.21",
     "motion": "^12.10.3",
-    "@gsap/react": "^3.11.0",
-    "gsap": "^3.12.7",
+    "@gsap/react": "^2.1.2",
+    "gsap": "^3.15.0",
     "lenis": "^1.1.2",
     "lucide-react": "^0.511.0",
     "clsx": "^2.1.1",
